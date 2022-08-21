@@ -7,5 +7,6 @@
 
 > **NOTE:** Each of these examples are explained in the github issue for 1.3 [1.3 Example: Path Seperator](https://github.com/rodriggj/Go/issues/3). 
 
-## References 
-- [ ] Go Playground [here](https://go.dev/play/p/Fmn-s56YzVN)
+## References
+- [ ] `path.Split()` documentation [here](https://pkg.go.dev/path#Split)
+- [ ] `blank assignment` used in the _Short Variable Declaration_ section [here](https://go.dev/doc/effective_go#blank_assign)
